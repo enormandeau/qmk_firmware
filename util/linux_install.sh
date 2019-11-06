@@ -214,4 +214,4 @@ else
 fi
 
 # Global install tasks
-pip3 install --user -r ${util_dir}/../requirements.txt
+/home/eric/miniconda3/bin/pip install --user -r ${util_dir}/../requirements.txt
